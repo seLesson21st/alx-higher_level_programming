@@ -1,7 +1,7 @@
 #!/usr/bin/python3
 
 if __name__ == "__main__":
-    '''Does basic calclations and prints out the results btwn 5 and 10'''
+    '''prints out the results btwn 5 and 10 after doing calculation'''
     from calculator_1 import add, sub, mul, div
 
     a = 10
