@@ -1,4 +1,4 @@
-#!/usr/bin/pythn3
+#!/usr/bin/python3
 '''Defines a json file writing function'''
 import json
 
